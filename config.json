@@ -15,10 +15,10 @@
 	"nickNameBot": "GoatBot",
 	"prefix": "-",
 	"adminOnly": {
-		"enable": false,
+		"enable": true,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": 100075799987253,
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
